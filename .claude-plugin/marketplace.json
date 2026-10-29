@@ -1,0 +1,11 @@
+{
+  "name": "heongyu-skills",
+  "owner": { "name": "heongyuham" },
+  "plugins": [
+    {
+      "name": "weekly-sales-report",
+      "source": "./plugins/weekly-sales-report",
+      "description": "구글 시트 '판매관리'에서 지난주 매출 리포트를 만들어 슬랙으로 전송"
+    }
+  ]
+}
